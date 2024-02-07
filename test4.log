@@ -1,0 +1,25 @@
+02/06/2024 04:00:03 PM root INFO this is my first code for log
+02/06/2024 04:00:03 PM logger1.area1 INFO info for logger1
+02/06/2024 04:00:03 PM logger2.area2 DEBUG debug for logger2
+02/06/2024 04:00:03 PM logger2.area2 INFO this is info for logger2
+02/06/2024 04:06:26 PM root INFO this is my first code for log
+02/06/2024 04:06:26 PM logger1.area1 INFO info for logger1
+02/06/2024 04:06:26 PM logger2.area2 DEBUG debug for logger2
+02/06/2024 04:06:26 PM logger2.area2 INFO this is info for logger2
+02/06/2024 04:09:38 PM root INFO this is my first code for log
+02/06/2024 04:09:38 PM logger1.area1 INFO info for logger1
+02/06/2024 04:09:38 PM logger2.area2 DEBUG debug for logger2
+02/06/2024 04:09:38 PM logger2.area2 INFO this is info for logger2
+02/06/2024 04:12:18 PM root INFO this is my first code for log
+02/06/2024 04:12:18 PM logger1.area1 INFO info for logger1
+02/06/2024 04:12:18 PM logger2.area2 DEBUG debug for logger2
+02/06/2024 04:12:18 PM logger2.area2 INFO this is info for logger2
+02/06/2024 04:12:18 PM user4 INFO info for user 4
+02/06/2024 04:22:56 PM root INFO this is my first code for log
+02/06/2024 04:22:56 PM logger1.area1 INFO info for logger1
+02/06/2024 04:22:56 PM logger2.area2 DEBUG debug for logger2
+02/06/2024 04:22:56 PM logger2.area2 INFO this is info for logger2
+02/06/2024 04:22:56 PM user4 INFO info for user 4
+02/06/2024 04:32:06 PM root INFO main log
+02/06/2024 04:32:06 PM user1 INFO this is from user1 info
+02/06/2024 04:32:06 PM user2 DEBUG This is from user2 debug

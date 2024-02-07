@@ -1,0 +1,28 @@
+INFO:root:i am going to start my program
+WARNING:root:This is a first warning of my program to modify it
+ERROR:root:This is a message for error
+INFO:root:i am going to start my program
+WARNING:root:This is a first warning of my program to modify it
+ERROR:root:This is a message for error
+INFO:root:i am going to start my program
+WARNING:root:This is a first warning of my program to modify it
+ERROR:root:This is a message for error
+INFO:root:i am going to start my program
+WARNING:root:This is a first warning of my program to modify it
+ERROR:root:This is a message for error
+02/06/2024 09:20:57 AM i am going to start my program
+02/06/2024 09:21:12 AM This is a first warning of my program to modify it
+02/06/2024 09:21:13 AM This is a message for error
+02/06/2024 09:31:37 AM error has occured
+02/06/2024 09:31:37 AM division by zero
+Traceback (most recent call last):
+  File "C:\Users\Bharadwaj\AppData\Local\Temp\ipykernel_15128\2515261988.py", line 3, in test
+    div=a/b
+ZeroDivisionError: division by zero
+02/06/2024 09:33:54 AM 4 0
+02/06/2024 09:33:54 AM error has occured
+02/06/2024 09:33:54 AM division by zero
+Traceback (most recent call last):
+  File "C:\Users\Bharadwaj\AppData\Local\Temp\ipykernel_15128\4049731280.py", line 4, in test
+    div=a/b
+ZeroDivisionError: division by zero

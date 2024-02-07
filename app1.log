@@ -1,0 +1,20 @@
+root - 2024-02-06 16:32:30,492 - INFO - main log
+user1 - 2024-02-06 16:32:30,495 - INFO - this is from user1 info
+user2 - 2024-02-06 16:32:30,496 - DEBUG - This is from user2 debug
+root - 2024-02-06 16:32:43,548 - INFO - main log
+user1 - 2024-02-06 16:32:43,550 - INFO - this is from user1 info
+user2 - 2024-02-06 16:32:43,551 - DEBUG - This is from user2 debug
+root - 2024-02-06 16:32:44,391 - INFO - main log
+user1 - 2024-02-06 16:32:44,395 - INFO - this is from user1 info
+user2 - 2024-02-06 16:32:44,397 - DEBUG - This is from user2 debug
+root - 2024-02-06 16:32:44,738 - INFO - main log
+user1 - 2024-02-06 16:32:44,741 - INFO - this is from user1 info
+user2 - 2024-02-06 16:32:44,744 - DEBUG - This is from user2 debug
+parso.python.diff - 2024-02-06 16:46:13,074 - DEBUG - diff parser start
+parso.python.diff - 2024-02-06 16:46:13,082 - DEBUG - line_lengths old: 3; new: 3
+parso.python.diff - 2024-02-06 16:46:13,090 - DEBUG - -> code[equal] old[1:2] new[1:2]
+parso.python.diff - 2024-02-06 16:46:13,098 - DEBUG - copy old[1:1] new[1:1]
+parso.python.diff - 2024-02-06 16:46:13,106 - DEBUG - parse_part from 2 to 1 (to 1 in part parser)
+parso.python.diff - 2024-02-06 16:46:13,114 - DEBUG - parse_part from 2 to 3 (to 2 in part parser)
+parso.python.diff - 2024-02-06 16:46:13,119 - DEBUG - -> code[replace] old[3:3] new[3:3]
+parso.python.diff - 2024-02-06 16:46:13,128 - DEBUG - diff parser end
